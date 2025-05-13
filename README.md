@@ -7,3 +7,7 @@ A dummy message as an exercise
 # What .py files can you find?
 --- hello.py ***
 
+# Changes coming from the test-branch
+This is a change
+(if visible in main branch, a merge has occured)
+
