@@ -11,3 +11,4 @@ A dummy message as an exercise
 This is a change
 (if visible in main branch, a merge has occured)
 
+# Changes corresponding to the 'another-branch' branch
